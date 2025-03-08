@@ -42,7 +42,7 @@
 
 ###
 
-<img align="right" height="150" src="https://img2.pic.in.th/pic/pangpxxnnn-profile.gif"  />
+<img align="right" height="200" width="200" src="https://img2.pic.in.th/pic/pangpxxnnn-profile.gif"  />
 
 ###
 
@@ -51,8 +51,6 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/pangpxxnnn/pangpxxnnn/output/snake.svg" alt="Snake animation" />
 
 ###
 
