@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f0c29,55:302b63,100:00d4ff&text=PangPond&fontSize=78&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Computer%20Science%20%40%20Ramkhamhaeng%20University&descSize=18&descAlignY=60" width="100%" alt="PangPond" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f0c29,55:302b63,100:00d4ff&text=PANGPXXNNN&fontSize=78&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Computer%20Science%20%40%20Ramkhamhaeng%20University&descSize=18&descAlignY=60" width="100%" alt="PANGPXXNNN" />
 
 <a href="https://github.com/pangpxxnnn">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=560&lines=Building+things+for+the+web;Vue+%2B+Vite+on+the+front;Go+%2C+PHP+%26+Node.js+on+the+back;Shipped+with+Docker+on+Ubuntu" alt="Building things for the web" />
@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="./assets/profile.gif" width="150" alt="PangPond" />
+<img src="./assets/profile.gif" width="150" alt="PANGPXXNNN" />
 
 <p>
   I build web apps end to end, from the UI down to the server it runs on.<br/>
