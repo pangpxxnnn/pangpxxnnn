@@ -20,14 +20,14 @@
 
 <a href="https://www.instagram.com/pangpxxnnn">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Instagram-F2F2F2?style=for-the-badge&logo=instagram&logoColor=111111" />
-    <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=F2F2F2" alt="Instagram" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/instagram-dark.svg" />
+    <img src="./assets/instagram-light.svg" alt="Instagram" />
   </picture>
 </a>
 <a href="https://www.facebook.com/pdc.creation.inc">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Facebook-F2F2F2?style=for-the-badge&logo=facebook&logoColor=111111" />
-    <img src="https://img.shields.io/badge/Facebook-111111?style=for-the-badge&logo=facebook&logoColor=F2F2F2" alt="Facebook" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/facebook-dark.svg" />
+    <img src="./assets/facebook-light.svg" alt="Facebook" />
   </picture>
 </a>
 
